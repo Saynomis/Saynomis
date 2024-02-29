@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saynomis
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML/CSS/Javascript
+- 🌱 I’m currently learning HTML/CSS/Javascript/REACT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ehrlich97@gmail.com
 
